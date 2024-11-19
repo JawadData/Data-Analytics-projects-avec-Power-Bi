@@ -18,13 +18,19 @@
 ## 🗂️ **Projets**
 
 ### 1️⃣ **Analyse de la Qualité des Données Client : Wafa Assurance**
-- **Description** : Ce projet est dédié à l’analyse de la qualité des données clients pour **Wafa Assurance**, une entreprise marocaine de renom. L'objectif principal est d'améliorer la qualité des données, essentielle pour optimiser les processus et les décisions stratégiques.  
+- **Description** : Ce projet est dédié à l’analyse de la qualité des données clients pour **Wafa Assurance Maroc**, une compagnie d'assurance. L'objectif principal est d'améliorer la qualité des données, essentielle pour optimiser les processus et les décisions stratégiques.  
   - Mise en place d’un **schéma en étoile** clair et précis.  
   - Gestion d’une **table historique** pour conserver l’historique des données et alimenter automatiquement les tables des dimensions liées aux tests de qualité.  
   - Création d'indicateurs de performance pour évaluer et suivre l’évolution de la qualité des données.  
+  - La visualisation est conçue pour répondre aux besoins de **deux profils métier** :  
+    - **Data Owner** : Pour un suivi global de la qualité des données.  
+    - **Data Steward** : Pour la gestion opérationnelle et les actions correctives.  
 
-- **Mots-clés** : 🛡️ _Qualité des données_, 📊 _Tableaux de bord dynamiques_, 🔄 _Automatisation_.  
+- **Note importante** : Les données utilisées dans ce tableau de bord sont des **données fictives (dummy)**, afin de préserver la confidentialité et la sensibilité des données réelles.  
+
+- **Mots-clés** : 🛡️ _Qualité des données_, 📊 _Tableaux de bord dynamiques_, 👥 _Profils métier_, 🔄 _Automatisation_.  
 - **[Voir le tableau de bord](https://app.powerbi.com/reportEmbed?reportId=25549b4c-a936-4d2f-8b7e-af85599c0929&autoAuth=true&ctid=04d6a2f0-64b2-4e71-b348-646401d08ee8)**  
+ 
 
 ---
 
