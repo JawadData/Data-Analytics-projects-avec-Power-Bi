@@ -17,19 +17,44 @@
 
 ## 🗂️ **Projets**
 
-### 1️⃣ **Analyse de la Qualité des Données Client : Wafa Assurance**
-- **Description** : Ce projet est dédié à l’analyse de la qualité des données clients pour **Wafa Assurance Maroc**, une compagnie d'assurance. L'objectif principal est d'améliorer la qualité des données, essentielle pour optimiser les processus et les décisions stratégiques.  
-  - Mise en place d’un **schéma en étoile** clair et précis.  
-  - Gestion d’une **table historique** pour conserver l’historique des données et alimenter automatiquement les tables des dimensions liées aux tests de qualité.  
-  - Création d'indicateurs de performance pour évaluer et suivre l’évolution de la qualité des données.  
-  - La visualisation est conçue pour répondre aux besoins de **deux profils métier** :  
-    - **Data Owner** : Pour un suivi global de la qualité des données.  
-    - **Data Steward** : Pour la gestion opérationnelle et les actions correctives.  
+# 📊 Customer Data Quality Analysis - Wafa Assurance  
 
-- **Note importante** : Les données utilisées dans ce tableau de bord sont des **données fictives (dummy)**, afin de préserver la confidentialité et la sensibilité des données réelles.  
+## 🛠️ Project Description  
+This project is dedicated to analyzing and improving the quality of customer data for **Wafa Assurance Maroc**, a leading insurance company. High-quality data is essential for optimizing processes and enabling strategic decision-making.  
 
-- **Mots-clés** : 🛡️ _Qualité des données_, 📊 _Tableaux de bord dynamiques_, 👥 _Profils métier_, 🔄 _Automatisation_.  
-- **[Voir le tableau de bord](https://app.powerbi.com/reportEmbed?reportId=25549b4c-a936-4d2f-8b7e-af85599c0929&autoAuth=true&ctid=04d6a2f0-64b2-4e71-b348-646401d08ee8)**  
+### Key Features:  
+- Implementation of a **star schema** for better data organization.  
+- Management of a **historical table** to retain past data and automatically feed dimension tables for quality tests.  
+- Development of **KPIs** to track data quality and improvement over time.  
+- Tailored visualizations for two distinct user roles:  
+  - **Data Owner**: Provides a global overview of data quality.  
+  - **Data Steward**: Supports operational management and corrective actions.  
+
+---
+
+## 📈 Dashboard Overview  
+### 📍 Visualization:  
+*(waf.jpg)*  
+
+---
+
+## ⚠️ Important Note  
+The data used in this dashboard is **dummy data**, ensuring that the confidentiality of real customer data is preserved.  
+
+---
+
+## 🏷️ Keywords  
+- 🛡️ _Data Quality_  
+- 📊 _Dynamic Dashboards_  
+- 👥 _User Profiles_  
+- 🔄 _Automation_  
+
+---
+
+## 🌐 How to Access  
+You can view the live dashboard using the link below:  
+👉 **[View the Dashboard](https://app.powerbi.com/reportEmbed?reportId=25549b4c-a936-4d2f-8b7e-af85599c0929&autoAuth=true&ctid=04d6a2f0-64b2-4e71-b348-646401d08ee8)**  
+
  
 
 ---
