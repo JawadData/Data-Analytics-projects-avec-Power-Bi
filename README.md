@@ -25,7 +25,7 @@ This project focuses on analyzing and improving the quality of customer data for
 
 ## 📈 Dashboard Overview  
 ### 📍 Visualization:  
-*(templates/wafa.jpg)*  
+![Alt Text](templates/wafa.jpg)
 
 
 ## ⚠️ Important Note  
@@ -58,7 +58,7 @@ This dashboard is dedicated to analyzing data from **Gitex Africa 2024**, offeri
 
 ## 📈 Dashboard Overview  
 ### 📍 Visualization:  
-*(templates/gitex.jpg)*  
+![Alt Text](templates/gitex.jpg)
 
 
 ## 🏷️ Keywords  
@@ -84,7 +84,7 @@ The goal of this dashboard is to track and analyze the tickets created within **
 
 ## 📈 Dashboard Overview  
 ### 📍 Visualization:  
-*(templates/ticket.jpg)*  
+![Alt Text](templates/ticket.jpg) 
 
 
 ## 🏷️ Keywords  
@@ -110,7 +110,7 @@ This dashboard is dedicated to the analysis of **sales orders** and **invoices**
 
 ## 📈 Dashboard Overview  
 ### 📍 Visualization:  
-*(templates/sales_dev.jpg)*  
+![Alt Text](templates/sales_dev.jpg)
 
 
 ## 🏷️ Keywords  
