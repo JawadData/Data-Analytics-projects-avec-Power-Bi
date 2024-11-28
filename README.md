@@ -1,19 +1,20 @@
 # 🌟 **Data Analytics Portfolio**
 
-👋 Bienvenue dans mon portfolio de **Data Analyst** ! Ici, je présente mes projets réalisés avec **Power BI**, où chaque tableau de bord raconte une histoire unique à travers les données. Que vous soyez un recruteur, un passionné de data, ou simplement curieux, plongez dans mes créations et découvrez comment j'exploite la puissance de la **visualisation de données** pour transformer des chiffres en décisions éclairées. 🚀
+👋 Welcome to my **Data Analyst** portfolio! Here, I showcase my projects created with **Power BI**, where each dashboard tells a unique story through data. Whether you're a recruiter, a data enthusiast, or just curious, dive into my creations and discover how I leverage the power of **data visualization** to turn numbers into actionable insights. 🚀
 
 ---
 
-## 📌 **À propos de ce portfolio**
+## 📌 **About This Portfolio**
 
-🔍 Chaque projet dans ce portfolio explore un domaine différent, mettant en avant :  
-- **Des analyses stratégiques** : Identifier des tendances, résoudre des problèmes, et proposer des insights actionnables.  
-- **Des visualisations dynamiques** : Graphiques interactifs, rapports intuitifs et storytelling immersif.  
-- **L'impact des données** : Traduire des métriques complexes en récits compréhensibles.  
+🔍 Each project in this portfolio explores a different domain, highlighting:  
+- **Strategic Analyses**: Identifying trends, solving problems, and delivering actionable insights.  
+- **Dynamic Visualizations**: Interactive charts, intuitive reports, and immersive storytelling.  
+- **The Impact of Data**: Translating complex metrics into understandable narratives.  
 
-🌐 **Accès direct** : Cliquez sur les liens pour explorer chaque tableau de bord Power BI en ligne.
+🌐 **Direct Access**: Click on the links to explore each Power BI dashboard online.
 
 ---
+
 
 ## 🗂️ **Latest Projets**
 
