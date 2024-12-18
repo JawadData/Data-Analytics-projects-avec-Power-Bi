@@ -46,7 +46,7 @@ The data displayed in this dashboard is **dummy data**, used to ensure the confi
 
 ## 🌐 How to Access  
 You can view the live dashboard using the link below:  
-👉 **[View the Dashboard](https://app.powerbi.com/reportEmbed?reportId=25549b4c-a936-4d2f-8b7e-af85599c0929&autoAuth=true&ctid=04d6a2f0-64b2-4e71-b348-646401d08ee8)**  
+👉 **[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTJjYmE4NjYtOTQ0Ny00YjRiLWE4OTQtODM4MmY4ZDVkYTdjIiwidCI6ImMyNzg3OTIyLTExZDktNGNhOC1hYWRmLTVlZjdmZjMxYTEyNyJ9)**  
 
 ---  
 
